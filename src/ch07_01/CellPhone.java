@@ -30,7 +30,7 @@ public class CellPhone {
 		System.out.println("전화를 켭니다.");
 	}	
 	void hangOff() {
-		System.out.println("전화를 끊습니다.");
+		System.out.println(" CellPhone전화를 끊습니다.");
 	}		
 	
 	
